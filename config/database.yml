@@ -32,7 +32,7 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: hoge_ome8
-  username: hoge_ome8_user
+  database: test_render_gqew
+  username: test_render_gqew_user
   password: <%= ENV['MYSITE_DATABASE_PASSWORD'] %>
   url: <%= ENV['DATABASE_URL'] %>
